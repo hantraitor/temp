@@ -2,49 +2,31 @@
   "data": [
     {
       "id": 1,
-      "name": "线路1",
+      "name": "OK解析",
       "ad": "no",
       "url": "https://okjx.cc/?url="
     },
     {
       "id": 1,
-      "name": "线路2",
-      "ad": "no",
-      "url": "http://jx.618ge.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路3",
-      "ad": "no",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路4",
+      "name": "ckplayer解析",
       "ad": "no",
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "id": 1,
-      "name": "线路5",
-      "ad": "no",
-      "url": "https://api.10dy.net/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路6",
+      "name": "elwtc解析",
       "ad": "no",
       "url": "https://jx.elwtc.com/vip/?url="
     },
     {
       "id": 1,
-      "name": "线路7",
+      "name": "ckmov解析",
       "ad": "no",
       "url": "https://www.ckmov.vip/api.php?url="
     },
     {
       "id": 1,
-      "name": "线路8",
+      "name": "180解析",
       "ad": "no",
       "url": "https://jx.000180.top/jx/?url="
     }
