@@ -3,31 +3,37 @@
     {
       "id": 1,
       "name": "OK解析",
-      "ad": "no",
+      "ad": "yes",
       "url": "https://okjx.cc/?url="
     },
     {
       "id": 1,
+      "name": "我爱看看",
+      "ad": "yes",
+      "url": "https://www.ikukk.com/?url="
+    },
+    {
+      "id": 1,
       "name": "ckplayer解析",
-      "ad": "no",
+      "ad": "yes",
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "id": 1,
       "name": "elwtc解析",
-      "ad": "no",
+      "ad": "yes",
       "url": "https://jx.elwtc.com/vip/?url="
     },
     {
       "id": 1,
       "name": "ckmov解析",
-      "ad": "no",
+      "ad": "yes",
       "url": "https://www.ckmov.vip/api.php?url="
     },
     {
       "id": 1,
       "name": "180解析",
-      "ad": "no",
+      "ad": "yes",
       "url": "https://jx.000180.top/jx/?url="
     }
   ]
