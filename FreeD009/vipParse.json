@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "OK解析",
-      "ad": "yes",
+      "ad": "no",
       "url": "https://okjx.cc/?url="
     },
     {
       "id": 1,
-      "name": "我爱看看",
-      "ad": "yes",
+      "name": "爱酷看看",
+      "ad": "no",
       "url": "https://www.ikukk.com/?url="
     },
     {
       "id": 1,
       "name": "ckplayer解析",
-      "ad": "yes",
+      "ad": "no",
       "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "id": 1,
       "name": "ckmov解析",
-      "ad": "yes",
+      "ad": "no",
       "url": "https://www.ckmov.vip/api.php?url="
     }
   ]
