@@ -3,7 +3,7 @@
     {
       "name": "测试1",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test1",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test1",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -19,7 +19,7 @@
     {
       "name": "测试2",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test2",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test2",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "测试3",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test3",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test3",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -51,7 +51,7 @@
     {
       "name": "测试4",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test4",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test4",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -67,7 +67,7 @@
     {
       "name": "测试5",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test5",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test5",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -83,7 +83,7 @@
     {
       "name": "测试6",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_test6",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_test6",
       "type": "m3u",
       "subTitle": "https://github.com/goolguy007/radioer",
       "click": true,
@@ -253,7 +253,7 @@
     {
       "name": "直播",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD001/zr_live_TV_oversea",
+      "webUrl": "https://cdn.jsdelivr.net/gh/hantraitor/temp@main/FreeD003/zr_live_TV_oversea",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
